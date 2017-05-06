@@ -8,7 +8,7 @@
          unique-identifier="bookid"
          xml:lang="en-US">
    <metadata>
-      <meta property="dcterms:modified">2017-05-06T07:43:45Z</meta>
+      <meta property="dcterms:modified">2017-05-06T09:29:48Z</meta>
       <dc:title>InclusiveVT Website</dc:title>
       <dc:language id="language">en-US</dc:language>
       <dc:identifier id="bookid">no-bookid-value</dc:identifier>
