@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/Becky/Documents/theinterns-evaluation/temp/epub?><?workdir-uri file:/Users/Becky/Documents/theinterns-evaluation/temp/epub/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="c-qualityeval" ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic concept/concept " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="concept:1;3:29">
+    <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="title:1;4:12">Quality Evaluation</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="shortdesc:1;5:16">This evaluation is based on the rubric located in Appendix A of Developing Quality Technical Information.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="conbody:1;6:14">
+        <section class="- topic/section " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="section:1;7:18">
+            <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="title:2;8:20">Task Orientation</title>
+            <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="p:1;9:16">Although the site does provide a great deal of information, it failed to include any task topics. The site does not inform the user how to become an involved in InclusiveVT. It would have been helpful if there was a task topic titled "How to Become Involved". Although InclusiveVT is meant to be mainly informative, a few task topics would have been helpful.</p>
+        </section>
+        <section class="- topic/section " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="section:2;11:18">
+            <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="title:3;12:20">Accuracy</title>
+            <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="p:2;13:16">The subjects seem to be well-researched, accurate and informative.  </p>
+        </section>
+        <section class="- topic/section " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="section:3;15:18">
+            <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="title:4;16:20">Completeness</title>
+            <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="p:3;17:16">As a whole, the site appears to be complete, but it could be improved with task topics. Currently, the site mainly consists of information about events and concepts, Tasks would make the site more complete by allowing the user to use the site based on their needs and interests. </p>
+        </section>
+        <section class="- topic/section " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="section:4;19:18">
+            <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="title:5;20:20">Clarity</title>
+            <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="p:4;21:16">The content is concise and easy to understand.</p>
+        </section>
+        <section class="- topic/section " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="section:5;23:18">
+            <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="title:6;24:20">Concreteness</title>
+            <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="p:5;25:16">The language is appropriate for the targeted audiences.  </p>
+        </section>
+        <section class="- topic/section " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="section:6;27:18">
+            <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="title:7;28:20">Style</title>
+            <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="p:6;29:16">Some of the content is a bit dry, but overall is appropriate for the audience.The overall tone of the site is informative yet casual, and captures the essence of InclusiveVT well.</p>
+        </section>
+        <section class="- topic/section " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="section:7;31:18">
+            <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="title:8;32:20">Organization</title>
+            <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="p:7;33:16">The site is organized very well and is easy for the user to navigate. The use of Navtitle is appropriate and effective. </p>
+        </section>
+        <section class="- topic/section " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="section:8;35:18">
+            <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="title:9;36:20">Retrievability</title>
+            <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="p:8;37:16">Searching for specific information is easy to do on the site. </p>
+        </section>
+        <section class="- topic/section " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="section:9;39:18">
+            <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="title:10;40:20">Visual Effectiveness</title>
+            <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/quality.dita" xtrc="p:9;41:16">The site could improve as far as visuals. Include more images to appeal to the user. </p>
+        </section>
+    </conbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:1;15:39" xtrf="file:/Users/Becky/Documents/theinterns-evaluation/peereval.ditamap"><link class="- topic/link " format="dita" href="intro.dita" mapclass="- map/topicref bookmap/chapter " role="parent" scope="local" type="concept" xtrc="chapter:1;14:32" xtrf="file:/Users/Becky/Documents/theinterns-evaluation/peereval.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Introduction</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Introduction to the InclusiveVT website evaluation </desc></link></linkpool></related-links></concept>

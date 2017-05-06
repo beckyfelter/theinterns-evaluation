@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/Becky/Documents/theinterns-evaluation/temp/epub?><?workdir-uri file:/Users/Becky/Documents/theinterns-evaluation/temp/epub/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="concept_kmq_bgt_5z" ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic concept/concept " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/summary.dita" xtrc="concept:1;3:34">
+    <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/summary.dita" xtrc="title:1;4:12">Peer Review Summary</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/summary.dita" xtrc="shortdesc:1;5:16"/>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/summary.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/summary.dita" xtrc="p:1;7:12"/>
+        <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/summary.dita" xtrc="p:2;8:12"><b id="docs-internal-guid-003fc8ad-def2-75f5-07d3-ff629c6dffaf" class="+ topic/ph hi-d/b " xtrf="file:/Users/Becky/Documents/theinterns-evaluation/summary.dita" xtrc="b:1;8:76">Welcome to the peer
+                review for InclusiveVT! “The Interns” group will be evaluating this website
+                objectively from many perspectives. The “Quality Evaluation” of this peer review
+                covers the technical aspects of the website’s content, accuracy, completeness,
+                clarity, style, completeness, organization, retrievability, visual effectiveness and
+                design. The level of quality evaluation is assessed using the rubrics from
+                Developing Quality Technical Information. The “Usability” section covers the way the
+                content would be viewed from the perspective of a student. The “Usability” section
+                will verify the usability from a student’s perspective. This peer review closes with
+                a suggestion of improvements that will assist the InclusiveVT group's ability to
+                craft a more refined version of their content.</b></p>
+    </conbody>
+</concept>
