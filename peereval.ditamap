@@ -3,8 +3,16 @@
 <bookmap>
     <booktitle>
         <booklibrary>Peer Evaluation</booklibrary>
-        <mainbooktitle>Peer Evaluation of InclusiveVT Website</mainbooktitle>
+        <mainbooktitle>InclusiveVT Website</mainbooktitle>
     </booktitle>
+    
+    <bookmeta>
+    <author>Becky Felter</author>
+    <author>Maggie Hutzel</author>
+    <author>Marjan Ali</author>
+    <author>Elizabeth Setaro</author>
+    <author>Patrick McKiernan</author>       
+    </bookmeta>
     <frontmatter>
         <booklists>
             <toc/>
