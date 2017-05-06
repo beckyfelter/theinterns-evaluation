@@ -15,5 +15,6 @@
         <topicref href="quality.dita"></topicref>
         <topicref href="usability.dita"></topicref>
         <topicref href="improvements.dita"></topicref>
+        <topicref href="conclusion.dita"></topicref>
     </chapter>
 </bookmap>
