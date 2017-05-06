@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-usability">
+    <title>Usability Evaluation</title>
+    <shortdesc>This is an evaluation of the usability of the InclusiveVT webhelp from a student's perspective.</shortdesc>
+    <conbody>
+        <p><b>Strengths</b></p>
+        <ul><li><b>Authoring Content:</b>Dividing the content for student, faculty, and alumni was a smart decision so that those individuals know immediately where to direct their attention on the site. These are great filters for your personas.</li>
+            <li><b>Flow of Navigation:</b>The navigation menu moved from general to specific from left
+                to right and top to bottom. This helped with engagement since website users
+                typically click and read left to right.</li>
+        </ul>
+        
+        <p><b>Opportunities for Improvement</b></p>
+        <ul><li><b>Formatting:</b>While there was a lot of relevant information there could have been more formatting to help break up large blocks of text and help students navigate the content. Creating bold headers, italicizing quotes, or bulleting information when possible would improve readability.</li>
+            
+            <li><b>Navigation Titles:</b>Creating more general navigation titles may help to improve usability of the site for students who are unfamiliar with InclusiveVT. This was done well in the "Home" tab with general titles like <i>About us</i>, <i>Events</i>, and <i>Announcements</i> but it could have been carried over into the "For Students" tab. For example, under this tab it could say “Events” or “Programs” followed by a list of related programs like DiversityEdu because students may not click on a title that they're not familiar with. </li>
+            <li><b>Links</b>Incorporating links to sites or email addresses that are referenced would improve the usability of this web help so that students can be redirected in one click. Hyperlinks in a different color also improves readability and in turn usability since the call to action is more prominent and clear. </li>  
+        </ul>
+    </conbody>
+</concept>

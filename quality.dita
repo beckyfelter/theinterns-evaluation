@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-qualityeval">
+    <title>Quality Evaluation</title>
+    <shortdesc>This evaluation is based on the rubric located in Appendix A of Developing Quality Technical Information.</shortdesc>
+    <conbody>
+        <section>
+            <title>Task Orientation</title>
+            <p>Although the site does provide a great deal of information, it failed to include any task topics. The site does not inform the user how to become an involved in InclusiveVT. It would have been helpful if there was a task topic titled "How to Become Involved". Although InclusiveVT is meant to be mainly informative, a few task topics would have been helpful.</p>
+        </section>
+        <section>
+            <title>Accuracy</title>
+            <p>The subjects seem to be well-researched, accurate and informative.  </p>
+        </section>
+        <section>
+            <title>Completeness</title>
+            <p>As a whole, the site appears to be complete, but it could be improved with task topics. Currently, the site mainly consists of information about events and concepts, Tasks would make the site more complete by allowing the user to use the site based on their needs and interests. </p>
+        </section>
+        <section>
+            <title>Clarity</title>
+            <p>The content is concise and easy to understand.</p>
+        </section>
+        <section>
+            <title>Concreteness</title>
+            <p>The language is appropriate for the targeted audiences.  </p>
+        </section>
+        <section>
+            <title>Style</title>
+            <p>Some of the content is a bit dry, but overall is appropriate for the audience.The overall tone of the site is informative yet casual, and captures the essence of InclusiveVT well.</p>
+        </section>
+        <section>
+            <title>Organization</title>
+            <p>The site is organized very well and is easy for the user to navigate. The use of Navtitle is appropriate and effective. </p>
+        </section>
+        <section>
+            <title>Retrievability</title>
+            <p>Searching for specific information is easy to do on the site. </p>
+        </section>
+        <section>
+            <title>Visual Effectiveness</title>
+            <p>The site could improve as far as visuals. Include more images to appeal to the user. </p>
+        </section>
+    </conbody>
+</concept>
