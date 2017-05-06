@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <booklibrary>Peer Evaluation</booklibrary>
+        <mainbooktitle>A book about one thing</mainbooktitle>
+    </booktitle>
+    <frontmatter>
+        <booklists>
+            <toc/>
+        </booklists>
+        <bookabstract href="summary.dita"/>
+    </frontmatter>
+    <chapter href="intro.dita">
+        <topicref href="quality.dita"></topicref>
+        <topicref href="usability.dita"></topicref>
+        <topicref href="improvements.dita"></topicref>
+    </chapter>
+</bookmap>
